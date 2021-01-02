@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "602155036132",
+    "firebase_url": "https://fluttercamera-56531.firebaseio.com",
+    "project_id": "fluttercamera-56531",
+    "storage_bucket": "fluttercamera-56531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602155036132:android:2c485b8ab9405ca2696bf1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602155036132-tin66t0gtdndoghtek3lilv737tf05a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxc-5HMCL9MIO3hqKFjVrBAzNfULLpkVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602155036132-tin66t0gtdndoghtek3lilv737tf05a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602155036132:android:09fc285806e1e720696bf1",
+        "android_client_info": {
+          "package_name": "com.example.side_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602155036132-tin66t0gtdndoghtek3lilv737tf05a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxc-5HMCL9MIO3hqKFjVrBAzNfULLpkVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602155036132-tin66t0gtdndoghtek3lilv737tf05a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
